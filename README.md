@@ -11,7 +11,7 @@ As pastas e scripts deste repositório estão organizados seguindo o cronograma 
 
 ### 🟢 R Básico e Fundamentos
 * **10/08** – Lógica Computacional
-* **17/08** – R - Operações Básicas
+* **17/08** – R - Operações Básicas - exercicios-aula2.R
 * **24/08** – R - Análise Exploratória (Estatísticas Básicas)
 * **31/08** – R - Dataframes e Leitura de Arquivos
 * **07/09** – R - Manipulação de Datasets
